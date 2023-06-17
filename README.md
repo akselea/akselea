@@ -17,7 +17,7 @@
 <div align="center">Fresh graduate who have enthusiasm in Data Analytics field. Have high curiosity and eager to learn new things. Specialized in Python language, some machine learning library, database management system, and data visualization tools.</div>
 
 ### <div align="center">Language and Tools</div>
-#### <div align="center">Main Language</div>
+#### <div align="center">Main Languages</div>
 
 <div align= "center">
   <a href="https://www.python.org/" target="_blank">
