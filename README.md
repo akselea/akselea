@@ -1,16 +1,23 @@
-### Hi there 👋
+# <div align="center">Hello 👋, I'm Aksel</div>
 
-<!--
-**akselea/akselea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align= "center">
+  <a href="https://www.linkedin.com/in/akselea/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
+  </a>
+  <a href="https://www.instagram.com/akselea_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram badge">
+  </a>
+  <a href="mailto:aksele.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail badge">
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### <div align="center">Data Analyst and Machine Learning Enthusiast</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">Fresh graduate who have enthusiasm in Data Analytics field. Have high curiosity and eager to learn new things. Familiar with Python, machine learning library such as TensorFlow, database management system like PostgreSQL, and data visualization tools as Google Looker and Tableau.</div>
+
+### <div align="center">Language and Tools</div>
+
+
+
+
