@@ -71,16 +71,16 @@
 ### <div align="center">Other Tools</div>
 
 <div align= "center">
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="arduino logo">
   </a>
-  <a href="https://www.java.com/en/" target="_blank">
+  <a href="https://www.adobe.com/id_en/products/aftereffects.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" height="50" alt="after effect logo">
   </a>
-  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank">
+  <a href="https://www.adobe.com/id_en/products/premiere.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="50" alt="premiere pro logo">
   </a>
-  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank">
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="50" alt="matlab logo">
   </a>
 </div>
