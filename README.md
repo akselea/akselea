@@ -12,26 +12,29 @@
   </a>
 </div>
 
-### <div align="center">Data Analyst and Machine Learning Enthusiast</div>
+### <div align="center">Back-End Developer</div>
 
-<div align="center">Fresh graduate who have enthusiasm in Data Analytics field. Have high curiosity and eager to learn new things. Specialized in Python language, some machine learning library, database management system, and data visualization tools.</div>
+<div align="center">Fresh graduate who have enthusiasm in Back-End Developer field. Have high curiosity and eager to learn new things. Specialized in Node.js and Python language and also database management system.</div>
 
 ### <div align="center">Language and Tools</div>
-#### <div align="center">Main Languages</div>
+#### <div align="center">Main Languages & Tools</div>
 
 <div align= "center">
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="node.js logo">
+  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo">
   </a>
-  <a href="https://www.java.com/en/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo">
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="50" alt="postgresql logo">
   </a>
-  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" alt="aws logo">
   </a>
 </div>
 
-#### <div align="center">Supporting Tools</div>
+#### <div align="center">Supporting Tools (Python)</div>
 
 <div align= "center">
   <a href="https://jupyter.org/" target="_blank">
@@ -61,8 +64,14 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo">
   </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="50" alt="postgresql logo">
+  <a href="https://hapi.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" height="50" alt="hapi logo">
+  </a>
+   <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="expressjs logo">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo">
   </a>
 </div>
 
