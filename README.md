@@ -14,7 +14,7 @@
 
 ### <div align="center">Back-End Developer</div>
 
-<div align="center">Fresh graduate who have enthusiasm in Back-End Developer field. Have high curiosity and eager to learn new things. Specialized in Node.js and Python language, some Amazon Web Services tools, and also database management system.</div>
+<div align="center">Fresh graduate who have enthusiasm in Back-End Developer field. Have high curiosity and eager to learn new things. Specialized in Node.js and Python language, database management system, and some machine learning tools and algorithm.</div>
 
 ### <div align="center">Language and Tools</div>
 #### <div align="center">Main Languages & Tools</div>
