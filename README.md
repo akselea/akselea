@@ -70,6 +70,9 @@
    <a href="https://expressjs.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="expressjs logo">
   </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://seeklogo.com/images/P/postman-api-platform-logo-D6B8AB9B0D-seeklogo.com.png" height="50" alt="postman logo">
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo">
   </a>
