@@ -16,9 +16,11 @@
 
 <div align="center">A self-taught programmer who have enthusiasm in Back-End Developer field. Have high curiosity and eager to learn new things. Specialized in Node.js and Python language, database management system, and some machine learning tools and algorithm.</div>
 
+##
+
 ### <div align="center">Language and Tools</div>
 
-#### <div align="center">Tech Stack</div>
+### <div align="center">Tech Stack</div>
 
 <div align= "center">
   <a href="https://nodejs.org/en" target="_blank">
@@ -33,8 +35,9 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="50" alt="postgresql logo">
   </a>
+</div>
 
-#### <div align="center">Main Languages</div>
+### <div align="center">Main Languages</div>
 
 <div align= "center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -45,7 +48,7 @@
   </a>
 </div>
 
-#### <div align="center">Supporting Tools (Python)</div>
+### <div align="center">Supporting Tools</div>
 
 <div align= "center">
   <a href="https://jupyter.org/" target="_blank">
@@ -86,8 +89,6 @@
   </a>
 </div>
 
-<br>
-
 ### <div align="center">Other Tools</div>
 
 <div align= "center">
@@ -104,6 +105,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="50" alt="matlab logo">
   </a>
 </div>
+
+<br>
 
 <br>
 
