@@ -17,20 +17,31 @@
 <div align="center">A self-taught programmer who have enthusiasm in Back-End Developer field. Have high curiosity and eager to learn new things. Specialized in Node.js and Python language, database management system, and some machine learning tools and algorithm.</div>
 
 ### <div align="center">Language and Tools</div>
-#### <div align="center">Main Languages & Tools</div>
+
+#### <div align="center">Tech Stack</div>
 
 <div align= "center">
   <a href="https://nodejs.org/en" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="node.js logo">
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo">
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="expressjs logo">
+  </a>
+  <a href="https://hapi.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" height="50" alt="hapi logo">
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="50" alt="postgresql logo">
   </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" alt="aws logo">
+
+#### <div align="center">Main Languages</div>
+
+<div align= "center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="js logo">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo">
   </a>
 </div>
 
@@ -64,17 +75,14 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo">
   </a>
-  <a href="https://hapi.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" height="50" alt="hapi logo">
-  </a>
-   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="expressjs logo">
-  </a>
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://seeklogo.com/images/P/postman-api-platform-logo-D6B8AB9B0D-seeklogo.com.png" height="50" alt="postman logo">
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo">
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" alt="aws logo">
   </a>
 </div>
 
